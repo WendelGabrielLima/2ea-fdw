@@ -1,0 +1,18 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+
+#form{
+    text-align: center;
+}
+
+#e-mail, #password{
+    padding-top: 1em;
+    margin-bottom: 1em;
+}
+
+#submit{
+    text-align: center;
+}
+
